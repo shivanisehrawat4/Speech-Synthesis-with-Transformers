@@ -30,8 +30,8 @@ $ pip install transformers[torch] datasets soundfile
 
 ### Usage
 1. Clone the Project Repository:
-`git clone https://github.com/shivanisehrawat4/Speech-Synthesis-Transformers.git`
-`cd speech-synthesis-transformers`
+`git clone https://github.com/shivanisehrawat4/Speech-Synthesis-with-Transformers.git`
+`cd speech-synthesis-with-transformers`
 
 2. Open the Jupyter Notebook:
 `jupyter notebook speech_synthesis.ipynb`
