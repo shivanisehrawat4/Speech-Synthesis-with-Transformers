@@ -26,8 +26,6 @@ Before using this project, ensure you have the following dependencies installed:
 - **torch.cuda** (optional, for GPU acceleration)
 
 You can install these dependencies using the following command:
-
-```shell
 $ pip install transformers[torch] datasets soundfile
 
 ### Usage
