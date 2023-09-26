@@ -46,7 +46,7 @@ $ pip install transformers[torch] datasets soundfile
 Listen to the synthesized speech directly from the notebook or save it as an audio file.
 
 ### Documentation
-For detailed documentation on how to use this project, please refer to the Jupyter Notebook provided with the project.
+For detailed documentation on how to use this project, please refer to the Jupyter Notebook `TTS_Transformers.ipynb` provided with the project.
 
 ### Acknowledgments
 🤗 Transformers library for providing cutting-edge text-to-speech models.
